@@ -135,9 +135,9 @@ section {
     padding: 60px;
 }
 .photos div{
-        display: flex;
+    display: flex;
     flex-direction: row;
-    gap: 15px;
+    gap: 20px;
     justify-content: center;
     margin-bottom: 15px;
 }
